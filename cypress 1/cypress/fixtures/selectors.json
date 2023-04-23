@@ -3,15 +3,16 @@
     "weekDays": ".page-nav__day",
     "email": "[name='email']",
     "password": "[name='password']",
-    "hall": "#start-sales",
+    
     "loginButton": ".login__button",
     "error": "Ошибка авторизации!",
     "deskForEqual": "Управление залами",
     "chooseDay": "a.page-nav__day:nth-of-type(3)",
     "chooseMovie": ".movie",
-    "nameHall": "data.newHall",
     "timeSession": "10:00",
     "timeSessionForEqual": "Начало сеанса: 10:00",
     "booking": ".acceptin-button",
-    "successfully": "Вы выбрали билеты:"
+    "successfully": "Вы выбрали билеты:",
+    "filmName" : "body > main > section > div.movie__info > div.movie__description > h2",
+    "testHall": "[draggable=\"true\"][data-film-id=\"99\"] > .conf-step__movie-title"
 }
